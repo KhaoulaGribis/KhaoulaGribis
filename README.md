@@ -29,6 +29,6 @@ I enjoy exploring new tools and building intelligent, efficient, and user-friend
 I love learning new technologies, automating boring tasks, and turning creative ideas into real projects ✨
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaoulaGribis&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaoulaGribis&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 > “The best way to predict the future is to invent it.” — Alan Kay
