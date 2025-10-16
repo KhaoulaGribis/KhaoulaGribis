@@ -42,7 +42,7 @@ I enjoy exploring new tools and building intelligent, efficient, and user-friend
 
   <!-- Backend -->
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/fastapi.png" alt="FastAPI"/>
+    <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>
 
@@ -58,7 +58,9 @@ I enjoy exploring new tools and building intelligent, efficient, and user-friend
   <!-- Project Management -->
   <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-n8n-is-a-faircode-licensed-source-available-alternative-to-zapier-logo-color-tal-revivo.png" alt="n8n"/>
+   <img src="https://img.icons8.com/fluency/48/selenium-test-automation.png" alt="Selenium"/>
+  <img src="https://img.icons8.com/color/48/anaconda--v2.png" alt="Anaconda"/>
+  <img src="https://skillicons.dev/icons?i=n8n" height="48" alt="n8n"/>
 </p>
 
 
