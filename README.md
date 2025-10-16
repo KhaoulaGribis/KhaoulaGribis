@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋, I'm Khaoula!
 
-<!--
-**KhaoulaGribis/KhaoulaGribis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm an engineering student in **Computer Science**, passionate about **technology**, **innovation**, and **automation**.  
+I enjoy exploring new tools and building intelligent, efficient, and user-friendly applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm learning
+- Expanding my knowledge in **Machine Learning**, **AI Agents**, and **Data Science**  
+- Automating workflows using **low-code / no-code tools**
+
+---
+
+### 🤝 I’m looking to collaborate on
+- **AI** and **Data Science** projects  
+- **Web applications** enhanced with **automation** or **AI features**  
+- **Open-source** projects related to innovation and productivity  
+
+---
+
+### 📫 How to reach me
+- 💼 [LinkedIn](https://linkedin.com/in/khaoula-gribis)  
+- 📧 **khaoula.gribis@example.com**  
+- 🌐 [Portfolio](https://khaoulagribis.vercel.app/)
+
+---
+
+### ⚡ Fun fact
+I love learning new technologies, automating boring tasks, and turning creative ideas into real projects ✨
+
+---
+
+> “The best way to predict the future is to invent it.” — Alan Kay
