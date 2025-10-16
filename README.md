@@ -59,8 +59,9 @@ I enjoy exploring new tools and building intelligent, efficient, and user-friend
   <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello"/>
    <img src="https://img.icons8.com/fluency/48/selenium-test-automation.png" alt="Selenium"/>
-  <img src="https://img.icons8.com/color/48/anaconda--v2.png" alt="Anaconda"/>
-  <img src="https://skillicons.dev/icons?i=n8n" height="48" alt="n8n"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" height="48" alt="Anaconda"/>
+  <img src="https://raw.githubusercontent.com/vaibhavrajde/github-profile-assets/main/icons/n8n-icon.png" height="48" alt="n8n"/>
+
 </p>
 
 
