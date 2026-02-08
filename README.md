@@ -5,11 +5,6 @@ I enjoy exploring new tools and building intelligent, efficient, and user-friend
 
 ---
 
-### 🌱 What I'm learning
-- Expanding my knowledge in **Machine Learning**, **AI Agents**, and **Data Science**  
-- Automating workflows using **low-code / no-code tools**
-
----
 
 ### 🤝 I’m looking to collaborate on
 - **AI** and **Data Science** projects  
