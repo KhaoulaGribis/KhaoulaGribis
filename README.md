@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Khaoula!
 
-💻 I'm an engineering student in **Computer Science**, passionate about **technology**, **innovation**, and **automation**.  
+💻 I'm a Computer Science Engineer, passionate about **technology**, **innovation**, and **automation**.  
 I enjoy exploring new tools and building intelligent, efficient, and user-friendly applications.
 
 ---
